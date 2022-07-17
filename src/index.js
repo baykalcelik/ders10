@@ -3,7 +3,14 @@ import ReactDOM from 'react-dom/client';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <C1 ozellik1 />
+  <>
+  <C1 />
+  <C1 />
+  <C1 />
+  <C1 />
+  <C1 />
+  <C1 />
+  </>
 );
 
 
