@@ -1,10 +1,8 @@
-function C1(props){
+function C1(){
 
-    console.log("Render başladı.");
     return (
         <>
-        <p>Ben Component 1</p>
-        <p>Mesaj :{props.mesaj}</p>
+        <p>C1 Komponenti</p>
         </>
     )
   
