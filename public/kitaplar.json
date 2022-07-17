@@ -1,0 +1,8 @@
+{
+    "kitaplar": [
+        { "ad": "Kitap adı 1", "yazar": "Yazar İsim1", "durum": "Ödünç alınabilir", "gorselUrl":"https://lipsum.app/id/10/100x150" } ,
+        { "ad": "Kitap adı 2", "yazar": "Yazar İsim2", "durum": "Ödünç alınabilir", "gorselUrl":"https://lipsum.app/id/12/100x150" } ,
+        { "ad": "Kitap adı 3", "yazar": "Yazar İsim3", "durum": "Ödünç alınamaz", "gorselUrl":"https://lipsum.app/id/14/100x150" } ,
+        { "ad": "Kitap adı 4", "yazar": "Yazar İsim4", "durum": "Ödünç alınabilir", "gorselUrl":"https://lipsum.app/id/16/100x150" } 
+    ]
+}
