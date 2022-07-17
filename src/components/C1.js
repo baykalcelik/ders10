@@ -1,13 +1,10 @@
 function C1(props){
-    
-    // console.log(props.aksiyon);
-    if(props.aksiyon !== undefined) props.aksiyon();
-    
 
+    console.log("Render başladı.");
     return (
         <>
         <p>Ben Component 1</p>
-        <p>Benim mesaj özelliğimin degeri : </p>
+        <p>Mesaj :{props.mesaj}</p>
         </>
     )
   
