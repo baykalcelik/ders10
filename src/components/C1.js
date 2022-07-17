@@ -1,4 +1,10 @@
+
+
 function C1(){
+
+    setInterval(()=>{
+        console.log("Zamanlayıcı Kuruldu.")
+    }, 4000);
 
     return (
         <>
